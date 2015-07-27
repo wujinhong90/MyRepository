@@ -12,7 +12,7 @@ import android.content.pm.PackageManager.NameNotFoundException;
 public class VersionUtils {
 
 	/**
-	 * 程序包名
+	 * 应用程序包名
 	 */
 	private final static String PACKAGE_NAME = "com.ymebuy";
 
